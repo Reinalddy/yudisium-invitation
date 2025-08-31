@@ -92,8 +92,7 @@ body {
 }
 
 .home {
-  background-image: url(img/bg.png);
-  background-size: cover;
+  background-color: #ccc;
   min-height: 100vh;
   margin-top: -6rem;
   padding-top: 15rem;
